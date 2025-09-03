@@ -1,0 +1,12 @@
+.continer{
+    width: 1000px;
+    height: 1000px;
+    border: 1px solid hotpink;
+}
+.box{
+    border: 1px solid blue;
+}
+.image{
+    width: 70px;
+    object-fit : cover;
+}

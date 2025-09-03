@@ -1,0 +1,27 @@
+.container {
+  width: 500px;
+  display: flex;
+  border: 1px solid black;
+}
+.box {
+  width: 100px;
+  height: 100px
+  text-align: center;
+  font-size: 6px;
+  padding: 2px:
+  border: 1px solid black;
+  
+}
+.inbox {
+  width: 100px;
+  text-align: bottom;
+  font-size: 5px;
+  font-weight: bold;
+  border: 1px solid black;
+}
+.image {
+  width: 100px;
+  height: 120px;
+  object-fit: cover;
+  border: 1px solid black;
+}
