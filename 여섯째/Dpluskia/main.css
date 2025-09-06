@@ -1,0 +1,28 @@
+body {
+  background-color: #000000;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  position: relative;
+}
+.focus {
+  height: 50%;
+  color: #ffffff;
+  font-size: 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 320px;
+}
+.focus > div {
+  margin-top: 260px;
+}
+.focus > div > span {
+  font-size: 14px;
+}

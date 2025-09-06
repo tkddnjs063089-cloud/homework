@@ -1,0 +1,16 @@
+@keyframes slide-right {
+  from {
+    transform: translateX(-3px); /* 시작 위치 */
+  }
+  to {
+    transform: translateX(0); /* 끝 위치 = 길이 */
+  }
+}
+@keyframes slide-left {
+  from {
+    transform: translateX(3px); /* 시작 위치 */
+  }
+  to {
+    transform: translateX(0); /* 끝 위치 = 길이 */
+  }
+}
